@@ -45,6 +45,18 @@ The system combines **LangGraph + Groq + MongoDB + FastAPI + React** into one en
 
 ---
 
+## 🌐 Live Application
+
+<p align="center">
+
+<a href="https://callcart-ai.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-CallCart_AI-00D9FF?style=for-the-badge" />
+</a>
+
+</p>
+
+---
+
 # 🧠 Why is this different from a chatbot?
 
 A traditional chatbot:
